@@ -4,11 +4,6 @@ RQ2: Diminishing Returns Within a 24-Hour Period
 Research Question:
 Does increasing daily practice intensity within a 24-hour period
 exhibit diminishing returns in recall performance?
-
-This script produces:
-1) Scatter plot with LOWESS smoothing
-2) Binned dose-response curve with confidence intervals
-3) Marginal return plot (change in recall per additional attempts)
 """
 
 import os
