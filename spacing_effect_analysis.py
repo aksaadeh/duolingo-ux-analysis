@@ -1,7 +1,5 @@
 """
 RQ1 Analysis:
-----------------------
-
 1) Spacing curve with confidence intervals
 2) Diminishing returns (effect size)
 3) Spacing × difficulty interaction
