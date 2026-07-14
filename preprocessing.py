@@ -2,20 +2,8 @@
 preprocessing.py
 
 Purpose:
---------
 Create clean, modeling-ready datasets focused on
 short-term learning dynamics (within-day behavior).
-
-Supports:
-- spacing effect analysis
-- fatigue analysis
-- at-risk learner modeling
-
-Outputs:
---------
-outputs/processed_duolingo.csv
-outputs/tables/spacing_bins.csv
-outputs/tables/user_early_features.csv
 """
 
 import os
